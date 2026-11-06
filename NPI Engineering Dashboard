@@ -1,0 +1,20 @@
+NPI-Engineering-Dashboard/
+│
+├── index.html
+│
+├── css/
+│   ├── style.css
+│   └── responsive.css
+│
+├── js/
+│   ├── app.js
+│   ├── projects.js
+│   ├── bom.js
+│   ├── calculator.js
+│   ├── routing.js
+│   └── quality.js
+│
+├── data/
+│   └── demo-data.js
+│
+└── README.md
